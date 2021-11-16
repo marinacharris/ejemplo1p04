@@ -1,0 +1,16 @@
+{
+  "listaProductos":  [
+        {
+            "titulo":"Disco Duro Estado Sólido 512MB",
+            "imagen": "\\assets\\card_img1.jpg",
+            "precio": "$200.000",
+            "descripcion": "Disco duro de alto rendimiento"
+        },
+        {
+            "titulo":"Audifonos",
+            "imagen": "\\assets\\card_img2.jpg",
+            "precio": "$50.000",
+            "descripcion": "Audífonos con alta calidad de sonido"
+        }
+    ]
+}
